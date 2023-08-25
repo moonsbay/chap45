@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>table4.jsp</title>
+<title>table5.jsp</title>
 <style type="text/css">
 /* css주석 */
 table{
